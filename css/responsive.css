@@ -733,6 +733,13 @@ body.pushmenu-push-toLeft{
     background-attachment: scroll;
     background-position:center;
   }
+  .Facts {
+    /*url MUST be online url, Not within the img folder*/
+    background-image: url("../img/startup.jpg");
+    background-size: cover;
+    background-attachment: scroll;
+    background-position:center;
+  }
   .Reviews {
     /*url MUST be online url, Not within the img folder*/
     background-image: url("../img/office-women.jpg");
