@@ -1,5 +1,5 @@
 /*
-Template Name: Mountain  -  One Page Responsive - Light Version Core-Script
+Template Name: Ocean  -  One Page Responsive
 Author: SlyThemes
 
 Index Of JS:
